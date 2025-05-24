@@ -15,7 +15,6 @@ This project explores machine learning approaches for short-term electrical load
 - **Mukul Anand** - mukula@sas.upenn.edu  
 - **Karthikeya Jayarama** - jkarthik@seas.upenn.edu
 
-*University of Pennsylvania - CIS 5450: Big Data Analytics*
 
 ## Project Motivation
 
