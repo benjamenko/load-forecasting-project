@@ -96,17 +96,3 @@ Weather is one of the strongest predictors of load demand, making weather-based 
 2. **LSTM Early Warning**: Develop 24-hour system for blackout risk alerts
 3. **Ensemble Methods**: Combine model strengths for improved robustness
 4. **Extended Horizons**: Investigate medium-term forecasting approaches
-
-
-
-## Citation
-
-```bibtex
-@misc{big_data_load_forecasting_2024,
-  title={Big Data Analytics for Electrical Load Forecasting: A Comparative Study},
-  author={Menko, Ben and Anand, Mukul and Jayarama, Karthikeya},
-  year={2024},
-  institution={University of Pennsylvania},
-  course={CIS 5450 - Big Data Analytics}
-}
-```
